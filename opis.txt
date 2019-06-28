@@ -1,0 +1,5 @@
+Projekt zawiera gre kolko/krzyzyk
+3 tryby 
+Pvp
+Pvai
+Pvp w trybie turbo
